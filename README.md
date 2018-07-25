@@ -18,10 +18,14 @@ This module packs a bunch of clock utilities into one small package. The large a
 
 # About
 
-My name is Nick Biederman. I started Simple Circuits Modular as a way to share my Synth DIY designs with the world. My main focus has always been on sharing my work openly so others can build off of it. Every circuit board, schematic, or piece of code I create is uploaded publically to my GitHub. I encourage you to build these modules yourself, improve my designs, and share your own designs with the world. A link to my GitHub can be found below and each product page has a direct link to the repository for that module.
+My name is Nick Biederman. I started Simple Circuits Modular as a way to share my Synth DIY designs with the world. My main focus has always been on sharing my work openly so others can build off of it. Every circuit board, schematic, or piece of code I create is uploaded publically to Simple Circuits Modular's GitHub. I encourage you to build these modules yourself, improve my designs, and share your own designs with the world. This website is hosted through GitHub, and each module page has a link directly to the repository.
 
-All the information you need to build these modules yourself has been made avaliable, but I understand that some people prefer to purchase a fully assembaled module. In my Reverb store, you'll find fully assemballed and tested modules as well as circuit boards for many of my designs. Every module is assemballed by hand in my apartment and feature an acrylic panels. Below is a link to my Reverb storefront.
+All the information you need to build these modules yourself has been made avaliable, but I understand that some people prefer to purchase panels, PCBs, or complete modules. If you'd like to purchase PCBs or panels, you can see what I currently have in stock on ay my Reverb page linked below. If you're looking for a panel I don't have listed or a complete module you can contact me below. 
 
-Though most of the electronic design and coding has been done by myself, I have chosen to work with a close friend for most of my panel design. With the exception of a few particularly crowded panels, all of the panel designs have been done by Laura Lenhart. I've linked her industrial design portfolio below.
+Though most of the electronic design and coding has been done by myself, I have chosen to work with a close friend for most of my panel design. With the exception of a few particularly crowded panels, all of the panel designs have been done by Laura Lenhart.
 
 # Contact
+
+If you'd like to reach me direcly, you can email me at [nbiederman97@gmail.com.](mailto:nbiederman97@gmail.com)
+
+If you'd like to join the slack group for development and troubleshooting you can follow [This invite link.](https://join.slack.com/t/simplecircuitsmodular/shared_invite/enQtNDA2MjA1NTI0Njk0LTMwMDQ2Y2NkZjU1NGY2YmE0NDJjZDY1YjA2ZmY0MzNmNGMyMjNjNDM0MTk4MjRjYWIxNmI4ZWFiYjZjYzUwMjU)
