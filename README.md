@@ -1,10 +1,20 @@
 # Open Source Modular Synthisis
 
 [Modules](#Modules)
+
 [About](#About)
+
 [Contact](#Contact)
 
 # Modules
+
+Every module is released under CC Attrubution Share Alike 4.0. With this licesne, anyone is free to build, sell, or modify these designs as long as they share any changes they make under the same license.
+
+I'm currently in the process of fully documenting each module and transferring ownership from my personal GitHub to the Simple Circuits Modular orginazation. 
+
+## [Master Clock](https://github.com/simplecircuitsmodular/Master-Clock)
+
+This module packs a bunch of clock utilities into one small package. The large arcade button makes it easy to set the tempo with the tap of your finger. An external clock input allows the module to function as a traditional clock multiplier and divider. The rate knob has two modes. In mode 1, it modifies the base clock rate allowing you to speed up or slow down the tempo of an external clock or tap tempo. In mode 2 the knob sets the clock rate directly.
 
 # About
 
