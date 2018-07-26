@@ -1,4 +1,4 @@
-# [Modules](#Modules) [About](#About) [Contact](#Contact)
+# [Modules](#Modules) | [About](#About) | [Contact](#Contact)
 
 ## Modules
 
