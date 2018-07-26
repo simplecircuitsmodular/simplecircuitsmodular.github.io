@@ -14,7 +14,7 @@ This module packs a bunch of clock utilities into one small package. The large a
 
 Two ATMega based drum modules offer a simple, low power draw method to add some drums to your rack. Both modules use the same board, but have different panels and code loaded onto them.
 
-#### [Drone](https://simplecircuitsmodular.github.io/done/)
+#### [Drone](https://simplecircuitsmodular.github.io/drone/)
 
 These two modules are the only pure analog modules I've designed so far. Based on a reverse avalanche transistor oscillator, these modules offer a saw wave drone with built in passive filtering. The slave module features 3 oscilators and a tone control while the master features 2 oscillators, tone control, a passive mixer, and amplifier with volume control.
 
