@@ -24,6 +24,10 @@ Two ATMega based drum modules offer a simple, low power draw method to add some 
 
 These two modules are the only pure analog modules I've designed so far. Based on a reverse avalanche transistor oscillator, these modules offer a saw wave drone with built in passive filtering. The slave module features 3 oscillators and a tone control while the master features 2 oscillators, tone control, a passive mixer, and amplifier with volume control.
 
+#### [Arcade Sequencer](https://simplecircuitsmodular.github.io/bads/)
+
+This module offers a 6 channel drum sequencer with 3-64 steps. Each function is mapped to a single piece of hardware, and it can be synced to an internal or external clock. An additional set of jacks allows this module to record other trigger sources for playback as well.
+
 ## About
 
 My name is Nick Biederman. I started Simple Circuits Modular to share my Synth DIY designs with the world. My focus has always been on sharing my work openly so others can build from it. Every circuit board, schematic, or piece of code I create is uploaded publicly to Simple Circuits Modular's GitHub. I encourage you to build these modules yourself, improve my designs, and share your own designs with the world. This website is hosted through GitHub, and each module page has a link directly to the repository.
