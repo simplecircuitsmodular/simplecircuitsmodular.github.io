@@ -1,4 +1,5 @@
-# [Modules](#modules) | [About](#about) | [For Sale](#for-sale) | [Get Involved](#get-involved) | [Contact](#contact)
+# [Modules](#modules) | [About](#about) | [For Sale](#for-sale)
+# [Get Involved](#get-involved) | [Contact](#contact)
 
 ## Modules
 
@@ -8,7 +9,9 @@ I'm currently in the process of fully documenting each module and transferring o
 
 ### Stable
 
-Currently none of these modules meet the standard I would like to consider them stable.
+#### [Drums](https://simplecircuitsmodular.github.io/drums/)
+
+Two ATMega based drum modules offer a simple, low power draw method to add some drums to your rack. Both modules use the same board, but have different panels and code loaded onto them.
 
 ### In Development
 
@@ -16,17 +19,17 @@ Currently none of these modules meet the standard I would like to consider them 
 
 This module packs a bunch of clock utilities into one small package. The large arcade button makes it easy to set the tempo with the tap of your finger. An external clock input allows the module to function as a traditional clock multiplier and divider. The rate knob has two modes. In mode 1, it modifies the base clock rate allowing you to speed up or slow down the tempo of an external clock or tap tempo. In mode 2 the knob sets the clock rate directly.
 
-#### [Drums](https://simplecircuitsmodular.github.io/drums/)
-
-Two ATMega based drum modules offer a simple, low power draw method to add some drums to your rack. Both modules use the same board, but have different panels and code loaded onto them.
-
 #### [Drone](https://simplecircuitsmodular.github.io/drone/)
 
-These two modules are the only pure analog modules I've designed so far. Based on a reverse avalanche transistor oscillator, these modules offer a saw wave drone with built in passive filtering. The slave module features 3 oscillators and a tone control while the master features 2 oscillators, tone control, a passive mixer, and amplifier with volume control.
+This module is the only pure analog modules I've designed so far. Based on a reverse avalanche transistor oscillator, the module offer a saw wave drone with built in passive filtering. It features 3 oscillators and a tone control but requires amplification to reach modular levels.
 
 #### [Arcade Sequencer](https://simplecircuitsmodular.github.io/bads/)
 
 This module offers a 6 channel drum sequencer with 3-64 steps. Each function is mapped to a single piece of hardware, and it can be synced to an internal or external clock. An additional set of jacks allows this module to record other trigger sources for playback as well.
+
+#### [DigiMult](https://simplecircuitsmodular.github.io/DigiMult)
+
+Controlled by an ATMega, this module features an RG illuminated rotary encoder, 7 segment LED display, 12 bit DAC output, 1 digital I/O jack (connected to a hardware interrupt) and 1 analog in jack (which can be configured as a digital I/O). This module is designed to be reprogrammed for a number of uses, such as an arpegiattor or quantizer. This module uses Adafruit's MPC4725 library and a non interrupt encoder implimentation (such as AdaEncoder).
 
 ## About
 
