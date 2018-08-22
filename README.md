@@ -31,6 +31,10 @@ This module offers a 6 channel drum sequencer with 3-64 steps. Each function is 
 
 Controlled by an ATMega, this module features an RG illuminated rotary encoder, 7 segment LED display, 12 bit DAC output, 1 digital I/O jack (connected to a hardware interrupt) and 1 analog in jack (which can be configured as a digital I/O). This module is designed to be reprogrammed for a number of uses, such as an arpegiattor or quantizer. This module uses Adafruit's MPC4725 library and a non interrupt encoder implimentation (such as AdaEncoder).
 
+#### [Euclid](https://simplecircuitsmodular.github.io/euclid)
+
+Based on an Arduino mega, this 6 channel Euclidian sequencer gives full control over the creation of euclidian rhythms including changing pattern length and rotating patterns. Note that this module is still in the prototype phase and is very rough in its current state.
+
 ## About
 
 My name is Nick Biederman. I started Simple Circuits Modular to share my Synth DIY designs with the world. My focus has always been on sharing my work openly so others can build from it. Every circuit board, schematic, or piece of code I create is uploaded publicly to Simple Circuits Modular's GitHub. I encourage you to build these modules yourself, improve my designs, and share your own designs with the world. This website is hosted through GitHub, and each module page has a link directly to the repository.
