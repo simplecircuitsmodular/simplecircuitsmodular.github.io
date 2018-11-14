@@ -1,5 +1,5 @@
 # [Modules](#modules) | [About](#about) | [For Sale](#for-sale)
-# [Get Involved](#get-involved) | [Contact](#contact)
+# | [Contact](#contact)
 
 ## Modules
 
@@ -27,10 +27,6 @@ This module is the only pure analog modules I've designed so far. Based on a rev
 
 This module offers a 6 channel drum sequencer with 3-64 steps. Each function is mapped to a single piece of hardware, and it can be synced to an internal or external clock. An additional set of jacks allows this module to record other trigger sources for playback as well.
 
-#### [DigiMult](https://simplecircuitsmodular.github.io/DigiMult)
-
-Controlled by an ATMega, this module features an RG illuminated rotary encoder, 7 segment LED display, 12 bit DAC output, 1 digital I/O jack (connected to a hardware interrupt) and 1 analog in jack (which can be configured as a digital I/O). This module is designed to be reprogrammed for a number of uses, such as an arpegiattor or quantizer. This module uses Adafruit's MPC4725 library and a non interrupt encoder implimentation (such as AdaEncoder).
-
 #### [Euclid](https://simplecircuitsmodular.github.io/euclid)
 
 Based on an Arduino mega, this 6 channel Euclidian sequencer gives full control over the creation of euclidian rhythms including changing pattern length and rotating patterns. Note that this module is still in the prototype phase and is very rough in its current state.
@@ -46,10 +42,6 @@ Though most of the electronic design and coding has been done by myself, I have 
 ## For Sale
 
 I do intend to offer panels and PCBs through Reverb as each module reaches a stable state. Until then, I'll be selling working development PCBs for $3 each plus shipping (basically just enough that I won't take too much of a hit on the next version if I sell them all). If you choose to order development boards, you'll receive something that is fully functional but has minor issues. Maybe a silk screen didn't turn out right or a component was placed on the wrong side of the board making it inconvenient to assemble, but functionally the module is complete. I'll include detailed instructions on how to work around these issues if you choose to buy a board that's in development. Send me an email with the contact link below if you'd like to order.
-
-## Get Involved
-
-If you want to help in the development of these modules, you can buy some boards and build a module in development for testing, help with code refactoring, or fix some of the issues reported on GitHub. If you have an idea for a module or a design of your own you'd like to share through Simple Circuits we can make that happen. I've made a slack group for development, you can follow [this invite link](https://join.slack.com/t/simplecircuitsmodular/shared_invite/enQtNDA2MjA1NTI0Njk0LTMwMDQ2Y2NkZjU1NGY2YmE0NDJjZDY1YjA2ZmY0MzNmNGMyMjNjNDM0MTk4MjRjYWIxNmI4ZWFiYjZjYzUwMjU) to join. 
 
 ## Contact
 
