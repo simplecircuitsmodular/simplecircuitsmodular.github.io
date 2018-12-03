@@ -34,7 +34,7 @@ Based on an Arduino mega, this 6 channel Euclidian sequencer gives full control 
 
 My name is Nick Biederman. I started Simple Circuits Modular to share my Synth DIY designs with the world. My focus has always been on sharing my work openly so others can build from it. Every circuit board, schematic, or piece of code I create is uploaded publicly to Simple Circuits Modular's GitHub. I encourage you to build these modules yourself, improve my designs, and share your own designs with the world. This website is hosted through GitHub, and each module page has a link directly to the repository.
 
-All the information you need to build these modules yourself has been made available, but I understand that some people prefer to purchase panels, PCBs, or complete modules. If you'd like to purchase PCBs or panels, you can see what I currently have in stock on ay my Reverb page linked below. If you're looking for a panel I don't have listed or a complete module you can contact me below. 
+All the information you need to build these modules yourself has been made available, but I understand that some people prefer to purchase panels, PCBs, or complete modules. If you'd like to purchase PCBs, panels, or you're looking for a complete module you can contact me at the email address below. 
 
 
 ## Contact
