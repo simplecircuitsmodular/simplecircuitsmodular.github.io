@@ -26,7 +26,7 @@ This module packs a bunch of clock utilities into one small package. The large a
 
 This module offers a 6 channel drum sequencer with 3-64 steps. Each function is mapped to a single piece of hardware, and it can be synced to an internal or external clock. An additional set of jacks allows this module to record other trigger sources for playback as well.
 
-#### [Euclid](https://simplecircuitsmodular.github.io/euclid)
+#### [Euclid](https://simplecircuitsmodular.github.io/euclid/)
 
 Based on an Arduino mega, this 6 channel Euclidian sequencer gives full control over the creation of euclidian rhythms including changing pattern length and rotating patterns. Note that this module is still in the prototype phase and is very rough in its current state.
 
