@@ -16,6 +16,10 @@ This module is the only pure analog module I've designed so far. Based on a reve
 
 Two ATMega based drum modules offer a simple, low power draw method to add some drums to your rack. Both modules use the same board, but have different panels and code loaded onto them.
 
+#### [Passives](https://simplecircuitsmodular.github.io/passive/)
+
+These are simple passive modules shared for people who don't want to deal with designing panels themselves. They're not powered and are great beginner/learn to solder projects.
+
 ### In Development
 
 #### [Master Clock](https://simplecircuitsmodular.github.io/masterClock/)
