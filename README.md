@@ -42,6 +42,9 @@ All the information you need to build these modules yourself has been made avail
 
 There's many great online resources for SynthDIY information, but my personal favorite is the [Synth DIY Subreddit.](https://www.reddit.com/r/synthdiy) I source most of my components from [Mouser](https://www.mouser.com) and [Modular Addict](https://modularaddict.com/). I buy my PCBs from [PCBWay](https://www.pcbway.com/). I make my panels out of 1/8" acrylic sheet I cut on a laser cutter at the Columbus Idea Foundry, a large makerspace in central Ohio.
 
+#### A note on best practices
+
+I've sort of thrown best practice to the wind with this project. I started designing and building these modules for fun, not to make indestructable, top of the line modules. I spend all day writing code that handles every edge case and possible user input I can come up with, and it gets tedious after a while. I don't have any formal training or professional experince with circuit design. While I know what I'm doing isn't perfect and I do know how to properly protect inputs and buffer outputs, I don't really care. Sometimes I just want to make something that works, and this project reflects that. A lot of the code I have posted here would never pass a code review and my circuits lack the protection you'd expect to see on a commercial module. You probably won't break anything if you use the modules the way they're intended to be used, but I can't gaurentee you won't let some magic smoke out at some point. Use these modules at your own risk.
 
 ## Contact
 
