@@ -10,7 +10,7 @@ I'm currently in the process of fully documenting each module and transferring o
 
 #### [Drone](https://simplecircuitsmodular.github.io/drone/)
 
-This module is the only pure analog module I've designed so far. Based on a reverse avalanche transistor oscillator, the module offers a saw wave drone with built in passive filtering. It features 3 oscillators and a tone control but requires amplification to reach modular levels.
+This module is the first true analog module I have designed. Based on a reverse avalanche transistor oscillator, the module offers a saw wave drone with built in passive filtering. It features 3 oscillators and a tone control but requires amplification to reach modular levels.
 
 #### [Drums](https://simplecircuitsmodular.github.io/drums/)
 
@@ -32,7 +32,20 @@ This module offers a 6 channel drum sequencer with 3-64 steps. Each function is 
 
 #### [Euclid](https://simplecircuitsmodular.github.io/euclid/)
 
-Based on an Arduino mega, this 6 channel Euclidian sequencer gives full control over the creation of euclidian rhythms including changing pattern length and rotating patterns. Note that this module is still in the prototype phase and is very rough in its current state.
+Based on an Arduino mega, this 6 channel Euclidian sequencer gives full control over the creation of Euclidian rhythms including changing pattern length and rotating patterns. Note that this module is still in the prototype phase and is very rough in its current state.
+
+#### [DigiMult](https://simplecircuitsmodular.github.io/DigiMult/)
+
+A programable digital utility module with 4 potentiometer, 2 DAC outputs, a trigger input, and an analog input. Based on the ATTiny84.
+
+#### [Sub Oscillator](https://simplecircuitsmodular.github.io/octave/)
+
+My take on the common 4024 sub oscillator. This module offers -1, -2, and -3 octave outputs (selectable via a rotary switch), volume control, sub enable switch, and an input through. This allows the sub oscillator to be easily mixed, added, or removed. This is another true analog module.
+
+#### [XY-Z](https://simplecircuitsmodular.github.io/XY-Z/)
+
+This is a 16 step 2 dimensional CV sequencer. Each step is controlled by a potentiometer. The pots are laid out in a 4x4 grid, and 2 inputs (X and Y) allow you to move between rows and columns.
+
 
 ## About
 
@@ -44,7 +57,7 @@ There's many great online resources for SynthDIY information, but my personal fa
 
 #### A note on best practices
 
-I've sort of thrown best practice to the wind with this project. I started designing and building these modules for fun, not to make indestructable, top of the line modules. I spend all day writing code that handles every edge case and possible user input I can come up with, and it gets tedious after a while. I don't have any formal training or professional experince with circuit design. While I know what I'm doing isn't perfect and I do know how to properly protect inputs and buffer outputs, I don't really care. Sometimes I just want to make something that works, and this project reflects that. A lot of the code I have posted here would never pass a code review and my circuits lack the protection you'd expect to see on a commercial module. You probably won't break anything if you use the modules the way they're intended to be used, but I can't gaurentee you won't let some magic smoke out at some point. Use these modules at your own risk.
+I've sort of thrown best practice to the wind with parts of this project. I started designing and building these modules for fun, not to make indestructible, top of the line modules. I spend all day writing code that handles every edge case and possible user input I can come up with, and it gets tedious after a while. I don't have any formal training or professional experience with circuit design. While I know what I'm doing isn't perfect and I do know how to properly protect inputs and buffer outputs, I don't really care. Sometimes I just want to make something that works, and this project reflects that. A lot of the code I have posted here would never pass a code review and my circuits lack the protection you'd expect to see on a commercial module. You probably won't break anything if you use the modules the way they're intended to be used, but I can't guarantee you won't let some magic smoke out at some point. Use these modules at your own risk.
 
 ## Contact
 
