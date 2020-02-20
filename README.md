@@ -2,9 +2,7 @@
 
 ## Modules
 
-Every module is released under CC Attribution Share Alike 4.0. With this license anyone is free to build, sell, or modify these designs as long as they share any changes they make under the same license.
-
-I'm currently in the process of fully documenting each module and transferring ownership from my personal GitHub to the Simple Circuits Modular organization. 
+Every module is released under CC Attribution Share Alike 4.0. With this license anyone is free to build, sell, or modify these designs as long as they share any changes they make under the same license. 
 
 ### Stable
 
@@ -57,7 +55,7 @@ There's many great online resources for SynthDIY information, but my personal fa
 
 #### A note on best practices
 
-I've sort of thrown best practice to the wind with parts of this project. I started designing and building these modules for fun, not to make indestructible, top of the line modules. I spend all day writing code that handles every edge case and possible user input I can come up with, and it gets tedious after a while. I don't have any formal training or professional experience with circuit design. While I know what I'm doing isn't perfect and I do know how to properly protect inputs and buffer outputs, I don't really care. Sometimes I just want to make something that works, and this project reflects that. A lot of the code I have posted here would never pass a code review and my circuits lack the protection you'd expect to see on a commercial module. You probably won't break anything if you use the modules the way they're intended to be used, but I can't guarantee you won't let some magic smoke out at some point. Use these modules at your own risk.
+I am completely self taught in the field of hardware design. This project has largely served as a way for me to experiment and become familiar with the process of designing robust electronic circuits. My lack of experience is evident in many of my early designs, and this has lead to some poor coding practices to interface firmware with hardwaere that is not best suited to the application. A lot of the code I have posted here would never pass a code review and many of my circuits lack the protection you'd expect to see on a commercial module. I am in the process of revisiting early projects to improve the hardware and create robust modules. The vast majority of these modules operate at a 5v logic level. This means they are unlikely to damage commercial modules that are designed to work with the semistandard 10v PP Eurorack audio levels and +/-8 to 10v control levels, but the lack of proper buffering and protection on inputs and outputs may lead to issues when intigrated into a standard Eurorack system.
 
 ## Contact
 
